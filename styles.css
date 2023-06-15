@@ -24,6 +24,11 @@ body{
     background: #273549;    
 }
 
+p{
+    font-size: 14px;
+    color: white;
+}
+
 #heading-container{
     padding: 10px 50px;
     padding-bottom: 50px;
